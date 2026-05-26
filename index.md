@@ -1,16 +1,16 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Peyton Blake                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "Do or Do Not. There is no "try"."
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🎓 Sophomore, Business Management"
+  - "🔬 Interested in AI, ML, and Law"
+  - "📍 Based in Bowie, MD"
+  - "🚀 I like science fiction novels"
 
 linkedin: https://www.linkedin.com/in/example
 image: /assets/images/profile.svg
