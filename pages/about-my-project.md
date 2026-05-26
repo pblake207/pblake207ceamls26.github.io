@@ -1,6 +1,6 @@
 ---
 layout: project
-title: About My Project
+title: BioPersona: Physiologically Grounded Patient Simulation for Safety Evaluation of Clinical Dialogue Systems
 permalink: /about-my-project.html
 
 subtitle: Human-Computer Interaction & Adaptive Systems
@@ -31,10 +31,10 @@ outcome: |
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
-  name: Alex Morgan
+  name: Ricky Gole
   linkedin: https://www.linkedin.com/in/example
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
+  name: Dr. Jamell Dacon 
   linkedin: https://www.linkedin.com/in/example
 ---
