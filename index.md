@@ -12,7 +12,7 @@ quick_facts:
   - "📍 Based in Bowie, MD"
   - "🚀 I like science fiction novels"
 
-linkedin:www.linkedin.com/in/peyton-blake20
+linkedin: www.linkedin.com/in/peyton-blake20
 image: /assets/images/headshot2.jpg
 
 # A "Currently" block — three short status lines for the home page.
