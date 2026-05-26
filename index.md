@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I like science fiction novels"
 
 linkedin: www.linkedin.com/in/peyton-blake-235947367
-image: /assets/images/profile.svg
+image: /assets/images/headshot2.jpg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
