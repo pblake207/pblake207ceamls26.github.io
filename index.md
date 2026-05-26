@@ -4,7 +4,7 @@ title: Home
 display_name: Peyton Blake                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Do or Do Not. There is no "try"."
+motto: "Do or Do Not; There is no try."
 
 quick_facts:
   - "🎓 Sophomore, Business Management"
