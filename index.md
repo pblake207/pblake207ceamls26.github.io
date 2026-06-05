@@ -18,9 +18,9 @@ image: /assets/images/headshot2.jpg
 # A "Currently" block — three short status lines for the home page.
 currently:
   - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+    text: "The Priory of the Orange Tree - Samantha Shannon"
   - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
+    text: "-"
   - label: Wondering
     text: "How accessibility research can shape consumer hardware"
 ---
