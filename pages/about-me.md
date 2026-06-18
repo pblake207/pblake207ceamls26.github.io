@@ -31,6 +31,6 @@ about:
       caption: Im a Deadlock main
     - image: assets/images/etoufee.jpg
       caption: Love cooking recipes that have been in the family for generations (Shrimp Etoufee)
-    - image: /assets/images/gallery-3.svg
+    - image: assets/images/books.jpg
       caption: Next on my TBR list is Parable of the Sower by Octavia E. Butler
 ---
