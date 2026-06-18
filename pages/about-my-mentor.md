@@ -18,7 +18,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Jamell Dacon
   title: Assistant Professor of Computer Science & MINDS Lab Director 
-  image: /assets/images/faculty-mentor.svg
+  image: assets/images/Screenshot 2026-06-18 145250.png
   website: https://daconjam.github.io/
   bio: |
     Dr. Dacon is the Director & Lead Principal Investigator of the Machine Intelligence and Data Science (MINDS) Lab, and      a faculty at the Center for Equitable Artificial Intelligence and Machine Learning Systems (CEAMLS).
