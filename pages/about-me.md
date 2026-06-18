@@ -22,14 +22,14 @@ about:
     - icon: 
       title: Cooking
       description: 
-    - icon: 📚
+    - icon: 
       title: Reading
       description: Fantasy novels and Sci-Fi are my absolute favorite.
 
   gallery:
     - image: assets/images/deadlock.webp
       caption: Im a Deadlock main
-    - image: /assets/images/gallery-2.svg
+    - image: assets/images/etoufee.jpg
       caption: Love cooking recipes that have been in the family for generations (Shrimp Etoufee)
     - image: /assets/images/gallery-3.svg
       caption: Next on my TBR list is Parable of the Sower by Octavia E. Butler
