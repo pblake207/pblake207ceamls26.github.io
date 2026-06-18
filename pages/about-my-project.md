@@ -33,9 +33,9 @@ final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
   name: Ricky Gole
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/ricky-gole/
 
 faculty_mentor:
   name: Dr. Jamell Dacon 
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/jamelldacon/
 ---
