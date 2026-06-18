@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Peyton Blake
   role: Freshman, Business Management
-  image: /assets/images/profile.svg
+  image: assets/images/headshot2.jpg
   linkedin: www.linkedin.com/in/peyton-blake20
   bio: |
     Hi! I'm Peyton, a Business Management student in the CEAMLS SAIRI Summer Research program.
