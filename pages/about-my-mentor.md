@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Ricky Gole
   title: MS Candidate, Advanced Computer Science
-  image: /assets/images/graduate-student-mentor.svg
+  image: assets/images/Screenshot 2026-06-18 184642.png
   website: https://rickygole.github.io/
   bio: |
     Ricky is a Masters candidate working on NLP, AI/ML, and data science
