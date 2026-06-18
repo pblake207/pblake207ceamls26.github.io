@@ -27,7 +27,7 @@ about:
       description: Fantasy novels and Sci-Fi are my absolute favorite.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
+    - image: assets/images/deadlock.webp
       caption: Im a Deadlock main
     - image: /assets/images/gallery-2.svg
       caption: Love cooking recipes that have been in the family for generations (Shrimp Etoufee)
