@@ -4,36 +4,33 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
+  name: Peyton Blake
+  role: Freshman, Business Management
   image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: www.linkedin.com/in/peyton-blake20
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Peyton, a Business Management student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    My research interests sit at the intersection of AI Governance and law. I'm especially curious about mantaining 
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    Outside of class, you'll find me, playing video games, reading a fantasy book, or cooking something that reminds me of     home.
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
+    - icon: 
+      title: Video Games
+      description: I love to rank up on Valorant.
+    - icon: 
+      title: Cooking
+      description: 
     - icon: 📚
       title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+      description: Fantasy novels and Sci-Fi are my absolute favorite.
 
   gallery:
     - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
+      caption: Im a Deadlock main
     - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
+      caption: Love cooking recipes that have been in the family for generations (Shrimp Etoufee)
     - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+      caption: Next on my TBR list is Parable of the Sower by Octavia E. Butler
 ---
