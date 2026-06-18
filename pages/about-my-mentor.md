@@ -7,7 +7,7 @@ graduate_mentor:
   name: Ricky Gole
   title: MS Candidate, Advanced Computer Science
   image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  website: https://rickygole.github.io/
   bio: |
     Ricky is a Masters candidate working on NLP, AI/ML, and data science
     They've been an incredible mentor, helping me get acclimated to coding and technical research 
@@ -19,12 +19,11 @@ faculty_mentor:
   name: Dr. Jamell Dacon
   title: Assistant Professor of Computer Science & MINDS Lab Director 
   image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  website: https://daconjam.github.io/
   bio: |
-    Dr. Dacon leads a research group focused on human-centered computing and
-    accessibility. Their guidance has helped me sharpen my research questions and
-    think more carefully about real-world impact.
+    Dr. Dacon is the Director & Lead Principal Investigator of the Machine Intelligence and Data Science (MINDS) Lab, and      a faculty at the Center for Equitable Artificial Intelligence and Machine Learning Systems (CEAMLS).
+    Dr. Dacon has been a great mentor and resource throughout this research experience.
+    
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
+    Dr. Dacon has mentored many SAIRI students and encourages undergraduate research to be curious about the world around      them.
 ---
