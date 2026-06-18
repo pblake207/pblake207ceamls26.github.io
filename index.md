@@ -8,7 +8,7 @@ motto: "Do or Do Not; There is no try."
 
 quick_facts:
   - "🎓 Freshman, Business Management"
-  - "🔬 Interested in AI, ML, and Law"
+  - "🔬 Interested in AI, Business, and Law"
   - "📍 Based in Bowie, MD"
   - "🚀 I like science fiction novels"
 
