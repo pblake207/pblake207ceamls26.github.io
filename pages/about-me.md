@@ -21,7 +21,7 @@ about:
       description: I love to rank up on Valorant.
     - icon: 
       title: Cooking
-      description: 
+      description: Cooking is pretty theraputic for me.
     - icon: 
       title: Reading
       description: Fantasy novels and Sci-Fi are my absolute favorite.
