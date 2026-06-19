@@ -11,7 +11,7 @@ about:
   bio: |
     Hi! I'm Peyton, a Business Management student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of AI Governance and law. I'm especially curious about mantaining 
+    My research interests sit at the intersection of AI Governance and Law.
 
     Outside of class, you'll find me, playing video games, reading a fantasy book, or cooking something that reminds me of     home.
 
